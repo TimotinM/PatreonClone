@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatreonClone", "PatreonClone\PatreonClone.csproj", "{6B532C2C-7910-4A8C-8D3A-65379A13DABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B532C2C-7910-4A8C-8D3A-65379A13DABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B532C2C-7910-4A8C-8D3A-65379A13DABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B532C2C-7910-4A8C-8D3A-65379A13DABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B532C2C-7910-4A8C-8D3A-65379A13DABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2962CE7-69AC-4038-8279-BCDD40C7CF96}
+	EndGlobalSection
+EndGlobal
